@@ -1,2 +1,5 @@
 # hello-world
-Hello World! repository to test GitHub
+This project is intended to follow the "Hello World" tutorial from GitHub.
+
+Regards,
+Alejandro
